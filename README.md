@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋 I'm [Talif](https://github.com/abdultalif).
 
-<!--
-**abdultalif/abdultalif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I'm interested in web programing
+- 🌱 Currently Learning JavaScript
+- 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel and JavaScript
+- 🎓 Majoring in information systems at the [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js).
+- 💬 Ask me about anything related to PHP, Laravel and JavaScript
+- 📷 Instagram: [abdullt85](https://www.instagram.com/abdullt85/).
+- 🌐 Portfolio: [abdullt85.netlify.app/](https://abdullt85.netlify.app/).
 
-Here are some ideas to get you started:
+You can also find my profile on [LinkedIn](https://www.linkedin.com/in/abdul-talif/) for more information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out to me if you have any questions or would like to collaborate. 😊
+
+ 
+<p align="left">
+<a href="https://github.com/abdultalif">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdultalif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdultalif&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
