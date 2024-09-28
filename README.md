@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm [Talif](https://github.com/abdultalif).
 
 - 👀 I'm interested in web programing
-- 🌱 Currently Learning Go-lang
+- 🌱 Currently Learning NextJS
 - 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel and JavaScript
 - 🎓 Majoring in information systems at the [Universitas Bina Sarana Informatika](https://www.bsi.ac.id/ubsi/index.js).
 - 💬 Ask me about anything related to ExpressJS, ReactJS and NextJS
 - 📷 Instagram: [abdullt85](https://www.instagram.com/abdullt85/).
-- 🌐 Portfolio: [abdullt85.netlify.app/](https://abdullt85.netlify.app/).
+- 🌐 Portfolio: [abdullt85.vercel.app/](https://abdullt85.vercel.app/).
 
 You can also find my profile on [LinkedIn](https://www.linkedin.com/in/abdul-talif/) for more information.
 
