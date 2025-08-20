@@ -15,6 +15,7 @@
 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 <img src="https://img.shields.io/badge/fiber-%23009639.svg?style=for-the-badge&logo=fiber&logoColor=white">
+<img src="https://img.shields.io/badge/echo-%23007d9c.svg?style=for-the-badge&logo=go&logoColor=white">
 
 ### 🗃️ Databases & Messaging
 
